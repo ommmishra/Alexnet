@@ -1,3 +1,5 @@
+ALEXNET
+
 This is a simple implementation of Alexnet, a deep convolutional neural network which won the ILSVRC in 2012. The code for model class is same as the official pytorch implementation. 
 
 For better understanding the code and its implemenation refer to the medium articles linked below:
